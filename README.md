@@ -1,42 +1,25 @@
-# 👋 Hola, soy ChanderQuichiz
+# ¡Hola! 👋 Soy Luis Alexander Paredes Quichiz
 
-Soy desarrollador Full Stack con experiencia en múltiples tecnologías y frameworks modernos. Me enfoco en crear soluciones robustas y eficientes, explorando tanto el frontend como el backend y la infraestructura de despliegue.  
-Me apasiona aprender nuevas herramientas, implementar buenas prácticas y trabajar en equipo para transformar ideas en productos funcionales y de calidad.
+Soy estudiante de Computación e Informática en Cibertec (6.º ciclo), con enfoque en desarrollo **Backend y Fullstack**. Me interesa construir soluciones web y móviles con buenas prácticas de arquitectura, seguridad y testing.
 
----
+📍 Lima, Perú · 📧 chanderquichiz@outlook.com · 🔗 [LinkedIn](https://linkedin.com/in/luis-alexander-paredes-quichiz) · 💻 [GitHub](https://github.com/ChanderQuichiz)
 
-### 💻 Tecnologías que domino
+## 🚀 Stack tecnológico
+**Frontend:** React, Next.js, Angular, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS  
+**Backend:** Node.js, Express, Spring Boot, ASP.NET Core, Java, .NET, Prisma ORM  
+**Mobile:** Flutter, Jetpack Compose (Android), SwiftUI (iOS)  
+**Bases de datos:** MySQL, MongoDB, Redis  
+**Testing:** Vitest, JUnit 5, xUnit, pruebas automatizadas de backend  
+**DevOps / Herramientas:** Docker, GitHub Actions, Git  
+**Diseño / Documentación:** Figma, UML, documentación de APIs, diagramado de BD  
+**Seguridad:** JWT, Spring Security
 
-- **Frontend:**  
-  - React JS (Vite, routers, hooks, consumo de APIs, TailwindCSS)
-  - Angular (componentes, signals, servicios, rutas, forms reactivos, pipes, directivas)
-  - Jetpack Compose (MVVM, retrofit, manejo de estados y layouts en Android)
-  - HTML5, CSS3, SASS (diseño responsivo, variables, mixins, herencia, nesting)
+## 🎯 Perfil profesional
+Me considero una persona analítica, responsable y orientada a la mejora continua. Disfruto trabajar en equipo, entender el problema antes de programar y construir soluciones mantenibles. Actualmente busco seguir creciendo como **Desarrollador Junior**, aportando con disciplina técnica y actitud de aprendizaje constante.
 
-- **Backend:**  
-  - ASP.NET Core (APIs REST, autenticación JWT, Identity, DbContext, Entity Framework Core)
-  - Spring Boot & Spring Security (APIs, JWT, OAuth2, JPA, validaciones)
+## 📚 Formación académica
+**Técnico en Computación e Informática** — Cibertec (San Juan de Lurigancho, Lima)  
+Marzo 2024 – Actualidad (6.º ciclo)
 
-- **Base de datos:**  
-  - MySQL (DDL, DML, joins, vistas, procedimientos, triggers)
-  - MongoDB (nivel básico-intermedio: CRUD, modelado y consultas principales)
-  - Redis (almacenamiento clave-valor, listas, sets, hashes)
-
-- **DevOps y colaboración:**  
-  - Git (flujo de ramas, merge, stash, historial, recuperación de versiones)
-  - Docker y Docker Compose (containers, imágenes, despliegue multi-servicio)
-  - Excel (manejo de datos, reportes y fórmulas)
-  - UML y diseño de sistemas (diagramas de clases, secuencia, actividad, casos de uso, métricas EVM)
-
----
-
-### 📚 Recursos y aprendizaje
-
-Me mantengo actualizado mediante cursos, tutoriales y la práctica en proyectos personales, experimentando con diferentes stacks, frameworks y herramientas modernas.
-
----
-
-### 📫 ¿Hablamos?
-
-Si quieres colaborar, explorar mis proyectos o intercambiar ideas, ¡no dudes en contactarme o enviarme un PR!
-
+## 🌐 Idiomas
+Español (nativo)
