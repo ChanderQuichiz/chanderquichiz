@@ -1,4 +1,4 @@
-¡Hola! 👋 Soy Luis Alexander Paredes Quichiz
+**¡Hola! 👋 Soy Luis Alexander Paredes Quichiz**
 
 Soy estudiante de Computación e Informática en Cibertec (6.º ciclo), con enfoque en desarrollo Backend y Fullstack. Me interesa construir soluciones web con buenas prácticas de arquitectura, testing y despliegue en la nube.
 
